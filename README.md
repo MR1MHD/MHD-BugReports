@@ -14,7 +14,9 @@ When the store of a certain item is full, it is still possible to barter and get
 It is normal in any game, when the maximum storage limit is reached, to give a warning signal to the player that the storage is full or to reject the trading process that leads to the storage being filled with an amount more than it can handle.
 
 **Screenshots**
-photo_2024-03-28_14-18-09.jpg
+![photo_2024-03-28_14-18-09](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/967b9cbc-3d9a-4049-a8e6-fb072de68f00)
+
+
 
 
 **Desktop (please complete the following information):**
