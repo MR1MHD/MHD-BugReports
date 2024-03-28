@@ -1,11 +1,4 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
 
----
 
 **Describe the bug**
 In a Boom Beach game, there is a gap in the storage capacity of materials such as iron, stones, gold, and wood.
@@ -20,7 +13,7 @@ When the store of a certain item is full, it is still possible to barter and get
 It is normal in any game, when the maximum storage limit is reached, to give a warning signal to the player that the storage is full or to reject the trading process that leads to the storage being filled with an amount more than it can handle.
 
 **Screenshots**
-file:///C:/Users/12265/Downloads/Telegram%20Desktop/photo_2024-03-28_14-18-09.jpg
+photo_2024-03-28_14-18-09.jpg
 
 
 **Desktop (please complete the following information):**
