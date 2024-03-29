@@ -12,12 +12,16 @@ All you have to do is watch YouTube using the browser, and when the ad appears, 
 In the YouTube application on phones, you can block the ad, but you are still forced to watch it until the end. I think this is what should also happen to browsers.
 
 **Screenshots**
-![photo_2024-03-28_14-18-09](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/967b9cbc-3d9a-4049-a8e6-fb072de68f00)
+
+![1](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/224b3506-2af0-438a-a595-23fbab6cec21)
+
+![2](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/66c6fa13-5eb3-4639-be7e-7ed1bf08ceee)
 
 
-**Smartphone **
- - Device: Samsung S22 Ultra
- - OS: Amdroid version 14
+**Desktop :**
+ - OS: [windows 11]
+ - Browser [ chrome,edge]
+ - Version [chrome 123.0.6312.86 , edge 123.0.2420.65]
 
 
 **Additional context**
