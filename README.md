@@ -17,18 +17,10 @@ It is normal in any game, when the maximum storage limit is reached, to give a w
 ![photo_2024-03-28_14-18-09](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/967b9cbc-3d9a-4049-a8e6-fb072de68f00)
 
 
+**Smartphone **
+ - Device: Samsung S22 Ultra
+ - OS: Amdroid version 14
 
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+I think this is a useful bug more than it is a harmful bug for some players
