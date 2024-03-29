@@ -2,16 +2,14 @@
 
 
 **Describe the bug**
-In a Boom Beach game, there is a gap in the storage capacity of materials such as iron, stones, gold, and wood.
- There is a person called trade who comes every once in a while and brings with her some valuable barter. When the store of a certain item is full, it is still possible to barter and get more. Even if the store is full, bartering can always get more.
-**software**
-in Boom Beach game 
+You can skip watching ads on YouTube through a loophole in the browser, and this can be done when the ad appears.
+
 
 **To Reproduce**
-When the store of a certain item is full, it is still possible to barter and get more. Even if the store is full, bartering can always get more.
+All you have to do is watch YouTube using the browser, and when the ad appears, just click the About Ad button, then click the Block Ad and continue. In the end, the ad will disappear without you having to watch it all, and when any ad appears again, repeat the process.
 
 **Expected behavior**
-It is normal in any game, when the maximum storage limit is reached, to give a warning signal to the player that the storage is full or to reject the trading process that leads to the storage being filled with an amount more than it can handle.
+In the YouTube application on phones, you can block the ad, but you are still forced to watch it until the end. I think this is what should also happen to browsers.
 
 **Screenshots**
 ![photo_2024-03-28_14-18-09](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/967b9cbc-3d9a-4049-a8e6-fb072de68f00)
