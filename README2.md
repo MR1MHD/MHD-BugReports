@@ -24,5 +24,3 @@ In the YouTube application on phones, you can block the ad, but you are still fo
  - Version [chrome 123.0.6312.86 , edge 123.0.2420.65]
 
 
-**Additional context**
-I think this is a useful bug more than it is a harmful bug for some players
