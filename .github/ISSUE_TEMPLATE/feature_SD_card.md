@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: CD_card
+about: Use the memory card easily
 title: 'Memory card problem'
 
 ---
