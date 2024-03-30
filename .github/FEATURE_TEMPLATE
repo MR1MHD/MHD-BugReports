@@ -1,19 +1,26 @@
-
----
-name: Feature request
-about: Suggest an idea for this project
-title: 'Memory card problem'
-
----
-
-**Is your feature request related to a problem? Please describe.**
- A while ago, I was going to store some photos on a memory card using my laptop, but I did not find a connection that would allow me to put the card inside the laptop, so I had to use a complicated and long method to do that.
-
-**Describe the solution you'd like**
-I wish the devices had come with a slot that would allow the memory card to be inserted without the need for a connector.
+# MHD-BugReports
 
 
-**Describe alternatives you've considered**
-I transferred the files to the phone first, then from the phone to the memory card
+**Describe the bug**
+In a Boom Beach game, there is a gap in the storage capacity of materials such as iron, stones, gold, and wood.
+ There is a person called trade who comes every once in a while and brings with her some valuable barter. When the store of a certain item is full, it is still possible to barter and get more. Even if the store is full, bartering can always get more.
+**software**
+in Boom Beach game 
+
+**To Reproduce**
+When the store of a certain item is full, it is still possible to barter and get more. Even if the store is full, bartering can always get more.
+
+**Expected behavior**
+It is normal in any game, when the maximum storage limit is reached, to give a warning signal to the player that the storage is full or to reject the trading process that leads to the storage being filled with an amount more than it can handle.
+
+**Screenshots**
+![photo_2024-03-28_14-18-09](https://github.com/MR1MHD/MHD-BugReports/assets/165184650/967b9cbc-3d9a-4049-a8e6-fb072de68f00)
 
 
+**Smartphone **
+ - Device: Samsung S22 Ultra
+ - OS: Amdroid version 14
+
+
+**Additional context**
+I think this is a useful bug more than it is a harmful bug for some players
