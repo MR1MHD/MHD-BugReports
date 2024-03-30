@@ -1,7 +1,7 @@
 ---
-name:make the car connect to the phone 
+name: car connection
 about: make the car connect to the phone 
-title: 'car connection'
+title: 'The future of maintenance'
 
 
 ---
